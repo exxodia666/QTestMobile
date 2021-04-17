@@ -1,0 +1,6 @@
+module Pods_QTestMobile {
+  umbrella header "Pods-QTestMobile-umbrella.h"
+
+  export *
+  module * { export * }
+}
